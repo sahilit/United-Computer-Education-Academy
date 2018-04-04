@@ -1,0 +1,106 @@
+.header
+{
+    float:left;
+    width:1268px;
+    height:230px;
+    margin:30px 30px 0px 30px;
+    background-image: url("http://www.unitedcomputereducation.com/Images/header1.png");
+}
+.logo
+{
+    width:390px;
+    height:135px;
+    margin-top:15px;
+    margin-left:15px;
+    float:left;
+}
+.contact
+{
+    width:320px;
+    height:55px;
+    float:right;
+    margin-right:15px;
+    margin-top: 12px;
+    color:White;
+    font-size:15pt;
+}
+.menu
+{	
+    width:1220px;
+	height:43px;
+	float:left;
+    height: 42px;
+    margin-top: 35px;
+    margin-left: 0px;
+}
+
+
+ul#menu 
+{
+    width:1221px;
+	height:43px;
+    list-style-type: none;
+    overflow: hidden;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+ul#menu li {
+    float: left;
+    width: 197px;
+    height: 40px;
+    margin-top: 4px;
+}
+
+ul#menu li a {
+	background-color:#000267;
+    display: block;
+    color: white;
+    text-align: center;
+	width:186px;
+	text-decoration:none;
+    height: 35px;
+    font-size:18pt;
+}
+
+ul#menu li a:hover {
+    background-color:white;
+    color:Black;
+	
+}
+.content
+{
+    width:1238px;
+    background-color:White;
+    margin:0px 0px 0px 30px;
+    float:left;
+}
+.footer
+{
+    width:1268px;
+    height:77px;
+    float:left;
+    background-image:url("http://www.unitedcomputereducation.com/Images/footer.png");
+    margin:0px 30px 30px 30px;
+}
+.rights
+{
+    width:315px;
+    height:15px;
+    float:left;
+    margin-top:30px;
+    margin-left:15px;
+    color:White;
+    font-size:18px;
+}
+.bottommenu
+{
+    width:200px;
+    height:20px;
+    font-size:18px;
+    color:White;
+    float:right;
+    margin-top: 25px;
+    margin-right:15px;
+}
