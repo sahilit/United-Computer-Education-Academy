@@ -1,0 +1,94 @@
+.content
+{
+     height:885px;
+     background-color:White;
+}
+.clientele
+{
+    width:305px;
+    height:243px;
+    float:left;
+    margin-left:50px;
+    margin-top:30px;
+}
+.slider
+{
+    float:right;
+    margin:30px 50px 0px 0px;
+    width:755px;
+    height:243px;
+}
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+/* The dots/bullets/indicators */
+.dot {
+  height: 13px;
+  width: 13px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+.clientlist
+{
+    width:475px;
+    height:437px;
+    float:left;
+    font-size:18pt;
+    color:Black;
+    text-align:left;
+    margin-left: 85px;
+    margin-right: 0px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.clientelelogo
+{
+    width:540px;
+    height:405px;
+    float:right;
+    margin-right:85px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.associates
+{
+    width:885px;
+    height:125px;
+    margin-left: 150px;
+    margin-right: 0px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
