@@ -1,0 +1,117 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+    <title></title>
+        
+ <link href="CSS/About_us.css" rel="stylesheet" type="text/css" />
+
+        <link href="CSS/site.css" rel="stylesheet" type="text/css" />
+  </head>
+
+<body background="Images/obxBz5.png">
+    <form method="post" action="./About_us.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRkSnExh2glC37RplTORs2evDgfwbM1iFXuFQEjZTPKJK4=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="805B0152" />
+</div>
+    <div class="header">
+    <div class="logo">
+        <a href="home.aspx"><img alt="Logo" src="Images/unitedLogo.png" /></a>
+    </div>
+    <div class="contact">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.facebook.com/United-Computer-Academic-Education-275379969330615/"><img src="Images/ftg.png" /></a><br />
+        &nbsp;<a href="http://www.gmail.com" style="text-decoration:none; color:White;">ucae.nsp@gmail.com</a> | Tel:9029697389
+    </div>
+    <div class="menu">
+<ul id="menu">
+  <li><a href="Index.aspx">Home</a></li>
+  <li><a href="About_us.aspx">About Us</a></li>
+  <li><a href="course.aspx">Courses</a></li>
+  <li><a href="Contact.aspx">Contact</a></li>  
+  <li><a href="Franchisee.aspx">Franchisee</a></li>
+  <li><a href="clientele.aspx">Clientele</a></li>
+</ul>
+    </div>
+    </div>
+    <div class="content">
+        
+    <div class="content">
+    <div class="aboutus">
+   <center><h1>About Us</h1></center>
+
+   United Computers & Academic Education (UCAE) is one of the largest IT training institutes in Vasai - Virar region 
+   that trains youth and students in multiple segments of Information Technology. 
+   Our computer institute is the mark of quality education, training and professional 
+   certifications that serve the Information Technology needs of the students and the industry.<br /><br />
+
+Founded in 2013, UCAE continues its mission through quality training at affordable fee structure. 
+Our uniquely designed and comprehensive curriculum makes our students an employable and future ready.<br /><br />
+
+
+UCAE extends its reputation around Vasai - Virar Region with Licensed Training
+ Center.<br /><br />
+
+
+UCAE's has a dedicated team of skilled teachers and counselors to make sure the regular up gradation of 
+curriculum and quality delivery along with career guidance. Our professional team works harmoniously in unison,
+ happily pushing the frontiers growth and quality in imparting education.<br /><br />
+ 
+    </div>
+    <div class="mission">
+    <center><h1>Mission</h1></center> 
+
+<center>To transform unemployeed youth and aspirants into a team of dedicated centric courses and helping them to achieve self reliance. </center>
+    </div>
+
+     <div class="vision">
+    <center><h1>Vision</h1></center> 
+<center>Establishing a training center to reach out to maximum number of aspiring youth 
+and students. </center>
+ 
+    </div>
+
+     <div class="strength">
+    <center><h1>Our Strength </h1></center> 
+<center><ul><li>Latest Equipments</li>
+    <li>Latest Courseware</li>
+    <li>Trained Manpower</li>
+    <li>Training and guidence from the experts</li>
+    <li>High Degree of Technology awareness</li>
+    <li>Inside Market Analysis</li>
+    <li>Flexible and Sensitive to Students need</li>
+    <li>Strong Project Management experience</li>
+</ul></center>
+    </div>
+     <div class="values">
+    <center><h1>Values </h1></center> 
+<center>Create an organization that nurtures and nourishes talent, integrity and efficiency. </center>
+
+ 
+    </div>
+    <br /><br /><br />    <br /><br /><br />
+    </div>
+        <br /><br/>
+
+    </div>
+    <div class="footer">
+    <div class="rights">
+    All rights reserved © Aman-Sahil 2016.
+    </div>
+    <div class="bottommenu">
+    
+        <a href="home.aspx" style="text-decoration:none; color:White;">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="About_us.aspx" style="text-decoration:none; color:White;"> About</a>&nbsp;&nbsp;&nbsp;&nbsp; 
+        <a href="Contact.aspx" style="text-decoration:none; color:White;">Contact</a></div>
+        <a href="#">Back to Top</a>
+    </div>
+    </form>
+
+</body>
+</html>
