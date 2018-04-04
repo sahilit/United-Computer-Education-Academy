@@ -1,0 +1,73 @@
+.content
+{
+     background-color:White;
+}
+#courselist
+{
+   Width:959px;
+   height:230px;
+    margin-left: 121px;
+    margin-right: 0px;
+    margin-top: 30px;
+}
+.main
+{
+    width:1160px;
+    margin-left: 26px;
+    margin-right: 0px;
+    margin-top: 30px;
+    float:left;
+}
+.courses
+{
+    width:237px;
+    height:111px;
+    background-color:gray;
+    text-align:center;
+    text-decoration:none;
+    color:White;
+    font-size:18pt;
+    float:left;
+    border:1px solid black;
+}
+a
+{
+   
+    text-decoration:none;
+}
+.courses:hover
+{
+    background-color:#C0C0C0;
+    color:White;
+}
+.courseheader
+{
+    width:1195px;
+    height:60px;
+    color:White;
+    font-size:28pt;
+    text-align:center;
+    font-weight:bold;    
+    background-color:#3371b8;
+    font-family: Open Sans;
+}
+
+a.back-to-top {
+	display: none;
+	width: 60px;
+	height: 60px;
+	text-indent: -9999px;
+	position: fixed;
+	z-index: 999;
+	right: 20px;
+	bottom: 20px;
+	background:http://localhost:49159/project/Images/Untitled-1.png 
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	border-radius: 30px;
+}
+
+hover-back-to-top
+{
+background:http://localhost:49159/project/Images/arrow.png;   
+}}
