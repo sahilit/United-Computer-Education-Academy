@@ -1,0 +1,68 @@
+.content
+{
+     background-color:White;
+}
+.aboutus
+{
+    width:1200px;
+    height:330px;
+    float:left;
+    margin-left:0px;
+    margin-top:30px;
+    font-family: times new roman;
+    font-weight: 200;
+    background-color:rgb(255, 255, 255);
+    font-size: 18px;
+    color:#414A4F;
+}
+
+.mission
+{
+    width:1200px;
+    height:140px;
+    float:left;
+    margin-left:0px;
+    margin-top:30px;
+    background-color:#3371b8;
+    font-family: times new roman;
+    font-weight: 200;
+    font-size: 18px;
+    color:White;
+}
+.vision
+{
+    width:1200px;
+    height:110px;
+    float:left;
+    margin-left:0px;
+    margin-top:30px;
+    font-family: times new roman;
+    font-weight: 200;
+    font-size: 18px;
+    color:#414A4F;
+}
+.values
+{
+    width:1200px;
+    height:140px;
+    float:left;
+    margin-left:0px;
+    margin-top:30px;
+    font-family:times new roman;
+    font-weight: 200;
+    font-size: 18px;
+     color:#414A4F;
+}
+.strength
+{
+    width:1200px;
+    height:350px;
+    float:left;
+    margin-left:0px;
+    margin-top:30px;
+    font-family: times new roman;
+    font-weight: 200;
+    font-size: 18px;
+    color:white;
+    background-color:#1cb16c;
+}
