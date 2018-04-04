@@ -1,0 +1,56 @@
+.content
+{
+     height:1035px;
+     background-color:White;
+}
+.slider
+{
+    float:left;
+    margin:30px 20px 15px 30px;
+    width:755px;
+    height:242px;
+}
+.course
+{
+    width:358px;
+    height:239px;
+    float:left;
+    margin-left:24px;
+    margin-top:30px;
+}
+.concon
+{
+    float:left;
+    width:1145px;
+    height:280px;
+    background-color:Blue;
+    margin-left: 24px;
+    margin-top: 30px;
+}
+.contactD
+{
+    font-size:20pt;
+    background-color:blue;
+    color:white;
+    float:left;
+    width:475px;
+    height:252px;
+    margin-left: 15px;
+    margin-top: 14px;
+}
+#map
+{
+    width: 582px;
+    height: 254px;
+    float:right;
+    margin-right: 14px;
+    margin-top: 14px;
+}
+.enquiry
+{
+    float:left;
+    width:888px;
+    height:365px;
+    margin-left: 170px;
+    margin-top: 35px;
+}
