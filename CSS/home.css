@@ -1,0 +1,128 @@
+.content
+{
+     height:985px;
+     background-color:White;
+}
+.slider
+{
+    float:left;
+    margin:30px 20px 15px 30px;
+    width:755px;
+    height:242px;
+}
+.login
+{
+    width:365px;
+    height:242px;
+    float:left;
+    margin:30px 30px 15px 20px;
+}
+.logincap
+{
+    width:115px;
+    height:25px;
+    float:left;
+    color:White;
+    background-color:Blue;
+    font-size:16pt;
+    text-align:center;
+}
+.logincontent
+{
+    width:365px;
+    height:215px;
+    float:left;
+}
+.leftline
+{
+    width:755px;
+    height:18px;
+    float:left;
+    margin:10px 10px 10px 30px;
+}
+.rightline
+{
+    width:305px;
+    height:18px;
+    margin:10px 0px 10px 56px;
+    float:left;
+}
+.photoalbum
+{
+    width:755px;
+    height:471px;
+    float:left;
+    margin:0px 20px 30px 30px;
+}
+.mission
+{
+    width:365px;
+    height:469px;
+    float:left;
+    margin:0px 20px 30px 30px;
+}
+.missioncap
+{
+    width:115px;
+    height:25px;
+    float:left;
+    color:White;
+    background-color:Blue;
+    font-size:16pt;
+    text-align:center;
+}
+.missioncontent
+{
+    width:365px;
+    height:441px;
+    float:left;
+    margin-top: 5px;
+    font-size:14pt;
+    font-family:times new roman;
+}
+.associates
+{
+    width:885px;
+    height:125px;
+    margin-left: 150px;
+    margin-right: 0px;
+    margin-bottom: 30px;
+}
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+/* The dots/bullets/indicators */
+.dot {
+  height: 13px;
+  width: 13px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name:fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
