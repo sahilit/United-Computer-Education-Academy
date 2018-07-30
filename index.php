@@ -35,7 +35,7 @@
 <ul id="menu">
   <li><a href="index.html">Home</a></li>
   <li><a href="About_us.html">About Us</a></li>
-  <li><a href="course.html">Courses</a></li>
+	<li><a href="course.html">Courses</a></li>
   <li><a href="Contact.html">Contact</a></li>  
   <li><a href="Franchisee.html">Franchisee</a></li>
   <li><a href="clientele.html">Clientele</a></li>
